@@ -2,7 +2,7 @@
 I'm a Front-End developer using React
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-🔨 - I've just finished [**Terradle**](https://github.com/lukeNorris1/Terradle) <br/>
+🔨 - I've just finished [**Terradle**](https://lukenorris1.github.io/Terradle/) <br/>
 🔧 - Currently learning Material UI
 
  
