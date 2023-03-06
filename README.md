@@ -1,20 +1,20 @@
-### Hey there 
-<a href="https://www.linkedin.com/in/luke-norris-">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h1 align="center">Hi, I'm Luke Norris and welcome to my Github!</h1>
+I'm a Front-End developer using React
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=lukeNorris1.lukeNorris1)
+🔨 - I've just finished [**Terradle**](https://github.com/lukeNorris1/Terradle) <br/>
+🔧 - Currently learning Material UI
 
-
-Hi, I'm Luke Norris, a passionate Computer Science Graduate and front-end web developer.
-
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
   
 💬 Contact me via [email](mailto:lukenorris2@gmail.com)
 
-**languages and tools:**  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/luke-norris-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarah-kwon-651469186" height="30" width="40" /></a>
+</p>
+
+<h3> Languages and Tools </h3>  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
